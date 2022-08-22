@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    margin: 0  auto;
+}
+
+#navbarNavP {
+    position:absolute;
+    left: 50%;
+    padding: -100px;
+   
+}
+
+#img1{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    margin-top: 2%;
+}
+
+#img2{
+    width: 25px;
+    height: 25px;
+    
+} 
+
+.contenedorEx{
+    display: block;
+    margin: auto;
+   
+}
+
+#Datos1{
+    color: rgb(73, 73, 73);
+    text-align: center;
+    margin-top: 2%;
+}
+
+#Datos2{
+    text-align: center;
+    color: rgb(73, 73, 73);    
+    border-style: groove;
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#PerfilD{
+    text-align: center;
+    color: rgb(73, 73, 73);    
+    border-style: groove;
+    margin-top: 2%;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: xx-large;
+    border-radius: 500px;
+}
+
+
+#footer{ 
+    
+    margin: 0 auto;   
+    color: rgb(73, 73, 73);
+    
+}
